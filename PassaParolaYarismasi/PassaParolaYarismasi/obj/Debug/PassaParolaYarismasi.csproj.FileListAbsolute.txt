@@ -1,0 +1,11 @@
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\bin\Debug\PassaParolaYarismasi.exe.config
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\bin\Debug\PassaParolaYarismasi.exe
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\bin\Debug\PassaParolaYarismasi.pdb
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.csproj.AssemblyReference.cache
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.Form1.resources
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.Properties.Resources.resources
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.csproj.GenerateResource.cache
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.exe
+C:\Users\huseyinkaradana\source\repos\PassaParolaYarismasi\PassaParolaYarismasi\obj\Debug\PassaParolaYarismasi.pdb
